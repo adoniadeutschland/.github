@@ -11,7 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
  
- Wir sind Adonia Deutschland:
- https://www.adonia.de/
+ Wir sind [Adonia Deutschland](https://www.adonia.de/)!
  
- Wir machen Musicals und Jugendfreizeiten, dafür bauen wir viele Lösungen mit Code.
+ Wir machen [Musicals](https://www.adonia.de/konzerte) und [Jugendfreizeiten](https://www.adonia.de/musicalcamps), dafür bauen wir viele Lösungen mit Code.
