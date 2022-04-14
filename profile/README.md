@@ -14,4 +14,4 @@
  Wir sind Adonia Deutschland:
  https://www.adonia.de/
  
- Wir machen Jugendfreizeiten und bauen viele Lösungen mit Code.
+ Wir machen Musicals und Jugendfreizeiten, dafür bauen wir viele Lösungen mit Code.
